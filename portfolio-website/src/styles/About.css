@@ -50,8 +50,10 @@
 }
 
 .skill-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-10px) scale(1.05); /* Scale the card up */
+    z-index: 10; /* Bring the hovered card above the others */
 }
+
 
 .skill-card img {
     width: 60px;

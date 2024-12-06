@@ -19,12 +19,16 @@ const Home = () => {
                         Discover the journey of Geoffrey Waiganjo, a dedicated software engineer with a passion for creating impactful solutions. Explore his projects and skills, and connect to collaborate on exciting opportunities.
                     </p>
                     <div className="home-buttons">
-                        <a href="/projects" className="btn btn-solid" data-aos="fade-up" data-aos-delay="500">View Projects</a>
+                        <a href="/projects" className="btn btn-outline" data-aos="fade-up" data-aos-delay="500">View Projects</a>
                         <a href="/contact" className="btn btn-outline" data-aos="fade-up" data-aos-delay="700">Contact Me</a>
                     </div>
                 </div>
             </div>
-
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             {/* About Section */}
             <div className="about-section" data-aos="fade-up">
                 <div className="about-content">

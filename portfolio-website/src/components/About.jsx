@@ -32,22 +32,22 @@ const About = () => {
                 <div className="skills-section" data-aos="fade-up">
                     <h2>Skills & Technologies</h2>
                     <div className="skills-grid">
-                        <div className="skill-card" data-aos="zoom-in">
+                        <div className="skill-card" data-aos="flip-left">
                             <img src="https://ih1.redbubble.net/image.1468561932.1834/st,small,845x845-pad,1000x1000,f8f8f8.jpg" alt="Frontend Development" />
                             <h3>Frontend Development</h3>
                             <p>React, JavaScript, HTML, CSS</p>
                         </div>
-                        <div className="skill-card" data-aos="zoom-in">
+                        <div className="skill-card" data-aos="flip-left">
                             <img src="https://miro.medium.com/v2/resize:fit:1400/1*IcTQj9rXJxLdtjL9ENUWJA.jpeg" alt="Backend Development" />
                             <h3>Backend Development</h3>
                             <p>Node.js, Flask, PostgreSQL</p>
                         </div>
-                        <div className="skill-card" data-aos="zoom-in">
+                        <div className="skill-card" data-aos="flip-left">
                             <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Version Control" />
                             <h3>Version Control</h3>
                             <p>Git & GitHub</p>
                         </div>
-                        <div className="skill-card" data-aos="zoom-in">
+                        <div className="skill-card" data-aos="flip-left">
                             <img src="https://miro.medium.com/v2/resize:fit:1400/1*jM4Nenmq4DIoiEtSVLDjWg.png" alt="Other Tools" />
                             <h3>Other Tools</h3>
                             <p>REST APIs, Debugging Tools</p>
@@ -87,7 +87,7 @@ const About = () => {
                 <div className="contact-section" data-aos="fade-up">
                     <h2>Let’s Collaborate!</h2>
                     <p>
-                        Whether you’re looking for a software developer to bring your ideas to life or need someone to join your team, 
+                        Whether you're looking for a software developer to bring your ideas to life or need someone to join your team, 
                         I’d love to work together.
                     </p>
                     <button className="contact-btn">Contact Me</button>
