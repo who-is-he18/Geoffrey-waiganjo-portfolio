@@ -81,7 +81,7 @@ const Home = () => {
                             <p className="project-description">
                                 JobHive is a platform connecting employers with job seekers, streamlining the hiring process and enhancing user experience.
                             </p>
-                            <a href="/jobhive" className="btn btn-solid">Learn More</a>
+                            <a href="https://github.com/who-is-he18/JobHive" className="btn btn-solid" target="_blank" rel="noopener noreferrer">View on Github</a>
                         </div>
                     </div>
 
@@ -94,7 +94,7 @@ const Home = () => {
                             <p className="project-description">
                                 BikeHire simplifies bike rentals, promoting eco-friendly transportation and providing a seamless user experience.
                             </p>
-                            <a href="/bikehire" className="btn btn-solid">Learn More</a>
+                            <a href="https://github.com/who-is-he18/Bike-Hire" className="btn btn-solid">View on Github</a>
                         </div>
                     </div>
 
@@ -107,7 +107,7 @@ const Home = () => {
                             <p className="project-description">
                                 This portfolio website showcases my work and growth as a developer. It highlights my projects, skills, and personal journey in the tech industry.
                             </p>
-                            <a href="/portfolio" className="btn btn-solid">Learn More</a>
+                            <a href="https://github.com/who-is-he18/Geoffrey-waiganjo-portfolio" className="btn btn-solid">View on Github</a>
                         </div>
                     </div>
                 </div>
@@ -126,7 +126,7 @@ const Home = () => {
                         <p>
                             Geoffrey excels in creating visually appealing and user-friendly interfaces using HTML, CSS, and JavaScript. His skills ensure seamless user experiences across various devices.
                         </p>
-                        <a href="#learn-more" className="btn btn-outline">Learn More</a>
+                        <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                     <div className="technology-card" data-aos="fade-left">
                         <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_x6hGYHEk.webp" alt="React and Python" />
@@ -134,7 +134,7 @@ const Home = () => {
                         <p>
                             With a strong command of React and Python, Geoffrey builds robust and scalable applications. His ability to integrate these technologies enhances functionality and performance.
                         </p>
-                        <a href="#learn-more" className="btn btn-outline">Learn More</a>
+                        <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                     <div className="technology-card" data-aos="fade-up">
                         <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_6qLpYmAQ.webp" alt="Flask for Back-End Solutions" />
@@ -142,7 +142,7 @@ const Home = () => {
                         <p>
                             Geoffrey leverages Flask to develop efficient back-end solutions, ensuring secure and reliable server-side operations. His expertise supports the seamless integration of front-end and back-end systems.
                         </p>
-                        <a href="#learn-more" className="btn btn-outline">Learn More</a>
+                        <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                 </div>
             </div>

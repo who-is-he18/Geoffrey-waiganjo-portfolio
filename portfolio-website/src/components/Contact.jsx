@@ -21,17 +21,17 @@ const Contact = () => {
                 <div className="contact-item" data-aos="fade-left" data-aos-delay="300">
                     <i className="fas fa-envelope"></i>
                     <h3>Email Me</h3>
-                    <p>You can reach me at <a href="mailto:geoffrey.waiganjo@example.com">geoffrey.waiganjo@example.com</a>. I look forward to your message!</p>
+                    <p>You can reach me at <a href="mailto:waiganjogeoffrey2005@gmail.com">waiganjogeoffrey2005@gmail.com</a>. I look forward to your message!</p>
                 </div>
                 <div className="contact-item" data-aos="fade-left" data-aos-delay="400">
                     <i className="fas fa-phone-alt"></i>
                     <h3>Call Me</h3>
-                    <p>For immediate inquiries, call me at <a href="tel:+254700123456">+254 700 123 456</a>. I'm here to help!</p>
+                    <p>For immediate inquiries, call me at <a href="tel:+2547i6468440">+254 716 468 440</a>. I'm here to help!</p>
                 </div>
                 <div className="contact-item" data-aos="fade-left" data-aos-delay="500">
                     <i className="fas fa-map-marker-alt"></i>
                     <h3>Visit Me</h3>
-                    <p>Find me at 1234 Kenyatta Avenue, Nairobi, Kenya. Let's meet and discuss!</p>
+                    <p>Find me at Langata, Nairobi, Kenya. Let's meet and discuss!</p>
                 </div>
             </div>
         </div>

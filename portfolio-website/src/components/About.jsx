@@ -90,7 +90,7 @@ const About = () => {
                         Whether you're looking for a software developer to bring your ideas to life or need someone to join your team, 
                         I’d love to work together.
                     </p>
-                    <button className="contact-btn">Contact Me</button>
+                    <a href='/contact' className="contact-btn">Contact Me</a>
                 </div>
             </div>
         </div>

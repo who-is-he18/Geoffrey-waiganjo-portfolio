@@ -21,14 +21,14 @@ const Projects = () => {
             description:
                 "A web application for job seekers and employers. Built with Flask and PostgreSQL.",
             image: "https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_D2rw6KnW.webp",
-            link: "https://github.com/yourusername/job-seeking-app",
+            link: "https://job-hive-chi.vercel.app/",
         },
         {
             title: "Eco-friendly Bike Rental App",
             description:
                 "A seamless bike rental application with integrated booking and payment features.",
             image: "https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_tAPnS8Dm.webp",
-            link: "https://github.com/yourusername/bike-hire-app",
+            link: "https://bike-hire-theta.vercel.app/",
         },
         // Add more projects here
     ];
@@ -57,7 +57,7 @@ const Projects = () => {
                                 rel="noopener noreferrer"
                                 className="project-link"
                             >
-                                View on GitHub
+                                View Project
                             </a>
                         </div>
                     </div>
