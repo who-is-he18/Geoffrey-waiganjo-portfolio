@@ -14,7 +14,7 @@ const Projects = () => {
             description:
                 "A personal portfolio website built with React. It showcases my work, skills, and experience.",
             image: "https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_kz1YhB5j.webp",
-            link: "https://github.com/yourusername/portfolio",
+            link: "https://github.com/who-is-he18/Geoffrey-waiganjo-portfolio",
         },
         {
             title: "Job-seeking App",
