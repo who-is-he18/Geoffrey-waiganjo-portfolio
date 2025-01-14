@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // Import AOS CSS
+import 'aos/dist/aos.css';
 import '../styles/Home.css';
 
 const Home = () => {
     useEffect(() => {
-        AOS.init({ duration: 1000 }); // Initialize AOS with duration for the animations
+        AOS.init({ duration: 1000 });
     }, []);
 
     return (
@@ -57,7 +57,7 @@ const Home = () => {
                 </div>
                 <div className="about-image-container">
                     <img
-                        src="https://img.freepik.com/free-vector/storyboard-concept-illustration_114360-6426.jpg"
+                        src="/images/pic1.avif"
                         alt="Geoffrey Waiganjo"
                         className="about-image"
                     />
@@ -74,7 +74,7 @@ const Home = () => {
                 <div className="projects-grid">
                     <div className="project-card" data-aos="fade-up" data-aos-delay="100">
                         <div className="project-image">
-                            <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_D2rw6KnW.webp" alt="JobHive Application" />
+                            <img src="/images/pic2.avif" alt="JobHive Application" />
                         </div>
                         <div className="project-details">
                             <h3 className="project-title">JobHive Application</h3>
@@ -87,7 +87,7 @@ const Home = () => {
 
                     <div className="project-card" data-aos="fade-up" data-aos-delay="300">
                         <div className="project-image">
-                            <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_tAPnS8Dm.webp" alt="BikeHire Application" />
+                            <img src="/images/pic3.jpg" alt="BikeHire Application" />
                         </div>
                         <div className="project-details">
                             <h3 className="project-title">BikeHire Application</h3>
@@ -100,7 +100,7 @@ const Home = () => {
 
                     <div className="project-card" data-aos="fade-up" data-aos-delay="500">
                         <div className="project-image">
-                            <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_kz1YhB5j.webp" alt="Portfolio Website" />
+                            <img src="images/pic4.png" alt="Portfolio Website" />
                         </div>
                         <div className="project-details">
                             <h3 className="project-title">Portfolio Website</h3>
@@ -108,6 +108,18 @@ const Home = () => {
                                 This portfolio website showcases my work and growth as a developer. It highlights my projects, skills, and personal journey in the tech industry.
                             </p>
                             <a href="https://github.com/who-is-he18/Geoffrey-waiganjo-portfolio" className="btn btn-solid">View on Github</a>
+                        </div>
+                    </div>
+                    <div className="project-card" data-aos="fade-up" data-aos-delay="700">
+                        <div className="project-image">
+                            <img src="images/pic5.png" alt="Portfolio Website" />
+                        </div>
+                        <div className="project-details">
+                            <h3 className="project-title">Pennywise </h3>
+                            <p className="project-description">
+                            PENNYWISE is a personal finance tracker designed to help users effectively manage their income and expenses while providing insightful analytics about their financial health.
+                            </p>
+                            <a href="https://github.com/who-is-he18/pennywise" className='btn btn-solid'>View on Github</a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +133,7 @@ const Home = () => {
                 </p>
                 <div className="technologies-cards">
                     <div className="technology-card" data-aos="fade-right">
-                        <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_ah1Yn1U1.webp" alt="Front-End Development" />
+                        <img src="images/pic6.avif" alt="Front-End Development" />
                         <h3>Front-End Development Expertise</h3>
                         <p>
                             Geoffrey excels in creating visually appealing and user-friendly interfaces using HTML, CSS, and JavaScript. His skills ensure seamless user experiences across various devices.
@@ -129,7 +141,7 @@ const Home = () => {
                         <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                     <div className="technology-card" data-aos="fade-left">
-                        <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_x6hGYHEk.webp" alt="React and Python" />
+                        <img src="images/pic7.avif" alt="React and Python" />
                         <h3>React and Python Proficiency</h3>
                         <p>
                             With a strong command of React and Python, Geoffrey builds robust and scalable applications. His ability to integrate these technologies enhances functionality and performance.
@@ -137,7 +149,7 @@ const Home = () => {
                         <a href="/skills" className="btn btn-outline">Learn More</a>
                     </div>
                     <div className="technology-card" data-aos="fade-up">
-                        <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_6qLpYmAQ.webp" alt="Flask for Back-End Solutions" />
+                        <img src="images/pic8.jpeg" alt="Flask for Back-End Solutions" />
                         <h3>Flask for Back-End Solutions</h3>
                         <p>
                             Geoffrey leverages Flask to develop efficient back-end solutions, ensuring secure and reliable server-side operations. His expertise supports the seamless integration of front-end and back-end systems.

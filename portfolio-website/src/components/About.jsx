@@ -85,10 +85,10 @@ const About = () => {
 
                 {/* Call to Action */}
                 <div className="contact-section" data-aos="fade-up">
-                    <h2>Let’s Collaborate!</h2>
+                    <h2>Let's Collaborate!</h2>
                     <p>
                         Whether you're looking for a software developer to bring your ideas to life or need someone to join your team, 
-                        I’d love to work together.
+                        I'd love to work together.
                     </p>
                     <a href='/contact' className="contact-btn">Contact Me</a>
                 </div>
