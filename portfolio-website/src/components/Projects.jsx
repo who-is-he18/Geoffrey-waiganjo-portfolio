@@ -13,23 +13,30 @@ const Projects = () => {
             title: "Portfolio Website",
             description:
                 "A personal portfolio website built with React. It showcases my work, skills, and experience.",
-            image: "https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_kz1YhB5j.webp",
+            image: "images/pic4.png",
             link: "https://github.com/who-is-he18/Geoffrey-waiganjo-portfolio",
         },
         {
             title: "Job-seeking App",
             description:
                 "A web application for job seekers and employers. Built with Flask and PostgreSQL.",
-            image: "https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_D2rw6KnW.webp",
-            link: "https://job-hive-chi.vercel.app/",
+            image: "images/pic2.avif",
+            link: "https://jobhive-frontend.onrender.com/",
         },
         {
             title: "Eco-friendly Bike Rental App",
             description:
                 "A seamless bike rental application with integrated booking and payment features.",
-            image: "https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_tAPnS8Dm.webp",
+            image: "images/pic3.jpg",
             link: "https://bike-hire-theta.vercel.app/",
         },
+        {
+            title: "Personal Finance Tracker",
+            description:
+                "PENNYWISE is a personal finance tracker designed to help users effectively manage their income and expenses while providing insightful analytics about their financial health.",
+            image: "images/pic5.png",
+            link: "https://pennywise-frontend-y27l.onrender.com/",
+        }
         // Add more projects here
     ];
 

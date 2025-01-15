@@ -60,24 +60,31 @@ const About = () => {
                     <h2>Achievements</h2>
                     <div className="achievements-cards">
                         <div className="achievement-card" data-aos="flip-left">
-                            <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_D2rw6KnW.webp" alt="JobHive Project" />
+                            <img src="images/pic2.avif" alt="JobHive Project" />
                             <h3>JobHive</h3>
                             <p>
                                 Developed a job-seeking platform connecting job seekers with employers, onboarding over 100 users in the first month.
                             </p>
                         </div>
                         <div className="achievement-card" data-aos="flip-left">
-                            <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_tAPnS8Dm.webp" alt="BikeHire Project" />
+                            <img src="images/pic3.jpg" alt="BikeHire Project" />
                             <h3>BikeHire</h3>
                             <p>
                                 Built an eco-friendly bike rental application with seamless booking and payment integration.
                             </p>
                         </div>
                         <div className="achievement-card" data-aos="flip-left">
-                            <img src="https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_kz1YhB5j.webp" alt="Portfolio Website" />
+                            <img src="images/pic4.png" alt="Portfolio Website" />
                             <h3>Portfolio Website</h3>
                             <p>
                                 Designed and launched this responsive portfolio to showcase my projects, skills, and passion for software engineering.
+                            </p>
+                        </div>
+                        <div className="achievement-card" data-aos="flip-left">
+                            <img src="images/pic5.png" alt="Portfolio Website" />
+                            <h3>Pennywise</h3>
+                            <p>
+                            PENNYWISE is a personal finance tracker designed to help users effectively manage their income and expenses while providing insightful analytics about their financial health.
                             </p>
                         </div>
                     </div>

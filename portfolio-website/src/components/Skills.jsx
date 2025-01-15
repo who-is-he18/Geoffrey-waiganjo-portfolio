@@ -8,25 +8,25 @@ const skillsData = [
     title: 'Mastering HTML Structure',
     description:
       'Geoffrey has a strong foundation in HTML, enabling him to create well-structured and semantic web pages.',
-    imgSrc: 'https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_pawfuzjZ.webp',
+    imgSrc: 'images/pic9.png',
   },
   {
     title: 'Expert in CSS Design',
     description:
       'With CSS, Geoffrey crafts visually appealing and responsive designs, enhancing user experience across devices.',
-    imgSrc: 'https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_CtrJrXfM.webp',
+    imgSrc: 'images/pic10.png',
   },
   {
     title: 'JavaScript for Interactivity',
     description:
       'Geoffrey utilizes JavaScript to add dynamic features and interactivity, making web applications more engaging.',
-    imgSrc: 'https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_HI6sOgan.webp',
+    imgSrc: 'images/pic11.png',
   },
   {
     title: 'Proficient in React Development',
     description:
       'Geoffrey builds efficient and scalable web applications using React, focusing on component-based architecture.',
-    imgSrc: 'https://10web-site.ai/124/wp-content/uploads/sites/136/2024/12/tenweb_media_KMUdtqQL.webp',
+    imgSrc: 'images/pic12.png',
   },
 ];
 
